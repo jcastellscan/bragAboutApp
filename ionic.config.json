@@ -1,0 +1,7 @@
+{
+  "name": "bragginApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
